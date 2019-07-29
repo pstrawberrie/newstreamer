@@ -2,8 +2,7 @@
 Anecdotally-driven compendium for new twitch streamers?
 ------
 This repo's purpose is to get your twitch stream up and going. There are a lot of 
-things to think about when starting a new stream (especially if you're serious about 
-it). If you want to help, [CLICK HERE](https://github.com/pstrawberrie/newstreamer/pulls).
+things to think about when starting a new stream. If you want to help, [CLICK HERE](https://github.com/pstrawberrie/newstreamer/pulls).
 
 ## Prereq
 ======
