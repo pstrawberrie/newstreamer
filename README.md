@@ -1,7 +1,6 @@
 # newstreamer
-======
+------
 Anecdotally-driven compendium for new twitch streamers?
-
 ------
 
 This repo's purpose is to get your twitch stream up and going. There are a lot of 
