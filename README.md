@@ -26,8 +26,7 @@ things to think about when starting a new stream. If you want to help, [CLICK HE
 
 ## Notes
 #### Some Note Heading
-*Some Note Category*
+*Some Note Category Needs Double Space*  
 Some note description
-
-- Some Note List Item 1
-  - Some item in LI 1
+- Some LI 1
+  - Some subitem in LI 1
